@@ -1,0 +1,6 @@
+VendorName = "PHPMQ"
+ProjectName = "Stream"
+ProjectDescription = "PHPMQ Stream"
+PackageName = "php-mq/stream"
+ProjectDomain = "phpmq-stream"
+ProjectIP = "192.168.3.19"
