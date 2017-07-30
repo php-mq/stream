@@ -6,10 +6,10 @@
 namespace PHPMQ\Stream\Exceptions;
 
 /**
- * Class RepoTemplateException
+ * Class ReadTimedOutException
  * @package PHPMQ\Stream\Exceptions
  */
-class LogicException extends \LogicException
+final class ReadTimedOutException extends RuntimeException
 {
 
 }
